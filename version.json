@@ -1,6 +1,6 @@
 {
   "version": "1.4",
-  "url": "https://github.com/Vapson12/panel-cen-aktualizacje/blob/main/panel_cen_pradu.ino.bin",
+  "url": "https://github.com/Vapson12/panel-cen-aktualizacje/raw/refs/heads/main/panel_cen_pradu.ino.bin",
   "sha256": "B831ECC035155A08BA4A43653D45B7C5C109F06F5278A2267FA21FEFDEC8067C",
   "notes": "Język ekranu,Motyw kolorów,Zegar 12-godzinny,Format daty,Stały adres IP"
 }
